@@ -1,1 +1,1 @@
-# This is my Docker training repository
+# This is my Docker repository for training purposes
